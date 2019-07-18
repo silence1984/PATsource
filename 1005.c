@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>
+// #include<stdlib.h>
 
 int main()
 {
@@ -39,6 +39,6 @@ int main()
   }
   if (n > 0) printf("%d", number[0]);
   
-  system("PAUSE");
+  // system("PAUSE");
   return 0;
 }

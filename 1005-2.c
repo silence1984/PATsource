@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
+// #include<stdlib.h>
 
 int main()
 {
@@ -76,6 +76,6 @@ int main()
     }
     printf("%d", save[sub-1]);
 
-    system("PAUSE");
+    // system("PAUSE");
     return 0;
 }

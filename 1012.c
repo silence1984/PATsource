@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+// #include <stdlib.h>
 
 int main()
 {
@@ -82,7 +82,7 @@ int main()
         }
     }
 
-    system("PAUSE");
+    // system("PAUSE");
     return 0;
 
 }
